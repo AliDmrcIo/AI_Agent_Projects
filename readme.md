@@ -23,8 +23,8 @@ Projeleri çalıştırmak için aşağıdaki adımları izleyin:
 
 1.  **Repository'yi Klonlayın:**
     ```bash
-    git clone https://github.com/kullanici-adiniz/ai-agent.git
-    cd ai-agent
+    git clone https://github.com/AliDmrcIo/AI_Agent_Projects.git
+    cd AI_Agent_Projects
     ```
 
 2.  **Sanal Ortamı Aktif Edin:**
@@ -116,8 +116,8 @@ Follow these steps to run the projects:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/your-username/ai-agent.git
-    cd ai-agent
+    git clone https://github.com/AliDmrcIo/AI_Agent_Projects.git
+    cd AI_Agent_Projects
     ```
 
 2.  **Activate the Virtual Environment:**
