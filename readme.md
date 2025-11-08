@@ -3,7 +3,7 @@
 
 Bu repository, LangChain kütüphanesini kullanarak yapay zeka (AI) agent'ları oluşturma sürecini temel seviyeden ileri seviyeye taşıyan bir dizi Python projesi içermektedir. Projeler, en basit LLM çağrısından başlayarak, araç kullanımı, hafıza yönetimi, yapılandırılmış çıktı, RAG (Retrieval-Augmented Generation) ve yerel (on-premise) model kullanımı gibi modern AI konseptlerini adım adım öğretmeyi amaçlamaktadır.
 
-## 🚀 Kapsanan Ana Konular
+## Kapsanan Ana Konular
 
 - **Temel LLM Entegrasyonu**: LangChain ile Google Gemini modelini kullanma.
 - **Prompt Şablonları (Prompt Templating)**: Dinamik ve yeniden kullanılabilir prompt'lar oluşturma.
@@ -17,7 +17,7 @@ Bu repository, LangChain kütüphanesini kullanarak yapay zeka (AI) agent'ları 
 - **Yerel LLM Kullanımı**: Gemini gibi bulut tabanlı modeller yerine, bilgisayarınızda çalışan LLaMA (Ollama aracılığıyla) gibi yerel modelleri kullanma.
 - **Gerçek Hayat Projesi**: Müşteri şikayetlerini sınıflandıran, ilgili departmana yönlendiren, RAG ile bilgi bankasından destek alarak yanıt üreten ve sonuçları Excel'e raporlayan bir sistem geliştirme.
 
-## 🛠️ Kurulum ve Başlangıç
+## Kurulum ve Başlangıç
 
 Projeleri çalıştırmak için aşağıdaki adımları izleyin:
 
@@ -62,7 +62,7 @@ Projeleri çalıştırmak için aşağıdaki adımları izleyin:
     ollama pull llama3.2:3b
     ```
 
-## 📂 Proje Dosyaları ve Açıklamaları
+## Proje Dosyaları ve Açıklamaları
 
 ---
 
@@ -96,7 +96,7 @@ Bu bölüm, tek bir proje fikrinin nasıl adım adım daha yetenekli hale getiri
 
 This repository contains a series of Python projects that guide you from the basics to advanced levels of creating AI agents using the LangChain library. The projects start with a simple LLM call and progressively introduce modern AI concepts such as tool usage, memory management, structured outputs, Retrieval-Augmented Generation (RAG), and using local (on-premise) models.
 
-## 🚀 Core Concepts Covered
+## Core Concepts Covered
 
 - **Basic LLM Integration**: Using the Google Gemini model with LangChain.
 - **Prompt Templating**: Creating dynamic and reusable prompts.
@@ -110,7 +110,7 @@ This repository contains a series of Python projects that guide you from the bas
 - **Local LLM Usage**: Using local models like LLaMA (via Ollama) on your own machine instead of cloud-based models like Gemini.
 - **Real-World Project**: Developing a system that classifies customer complaints, routes them to the appropriate department, generates responses using a RAG-powered knowledge base, and reports the results to an Excel file.
 
-## 🛠️ Setup and Getting Started
+## Setup and Getting Started
 
 Follow these steps to run the projects:
 
@@ -155,7 +155,7 @@ Follow these steps to run the projects:
     ollama pull llama3.2:3b
     ```
 
-## 📂 Project Files and Descriptions
+## Project Files and Descriptions
 
 ---
 
